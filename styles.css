@@ -76,9 +76,6 @@ border-top-right-radius: 8px;
 border-bottom-right-radius: 8px;
 padding-left: 0px;
 background: url(image-header-desktop.jpg) no-repeat center center/contain ;
-border-top-right-radius:8px;
-border-top-bottom-radius:8px;
-      
 
 
 
@@ -89,9 +86,11 @@ border-top-bottom-radius:8px;
     background-color: hsla(277, 56%, 58%, 0.55);
     position: absolute;
     top: 132px;
-    left: 49.75%;
-    height: 380px;
-    width: 33.25%;
+    left: 49.95%;
+    height: 376px;
+    width: 32.8%;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
    
     
 }
